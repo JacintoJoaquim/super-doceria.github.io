@@ -1,0 +1,2 @@
+para sincronizar com o whatsapp 
+https://api.whatsapp.com/send?phone=24422936659825
